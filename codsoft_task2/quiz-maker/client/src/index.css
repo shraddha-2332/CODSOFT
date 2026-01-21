@@ -1,0 +1,15 @@
+/* Global styles */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #f9f9f9;
+}
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
